@@ -6,6 +6,7 @@ I am a student from Russia 🇷🇺, currently I am a Python Backend Developer. 
 
 ### You can contact here
 [![telegram](https://img.shields.io/badge/Telegram-384754?style=for-the-badge&logo=Telegram)](https://t.me/grushev_works)
+[![mail](https://img.shields.io/badge/eMail-384754?style=for-the-badge&logo=GMail)](mailto:contact@grushev-dev.ru)
 
 ### Used Languages Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyGrushev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
